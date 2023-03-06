@@ -32,3 +32,10 @@
 3. Review data: in `reviews.tsv` and `reviews_submit.tsv` files.
 
 > Tools for loading each of the above data are present in the `my_code_for_hw3_part2.py` file.
+
+
+## Week4: Margin Maximization
+
+1. A brief implementation of SVM.
+
+2. Explicit (for hinge loss) and numerical implementation of Gradient Descent.
