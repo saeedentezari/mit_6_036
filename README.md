@@ -48,3 +48,10 @@ Put the L2 regularization into the regression by Ridge Regression, and see the e
 1. `my_code_for_hw5.py` (module): Functional Tools for Ridge Regression on Auto Data.
 
 2. `my_auto.py` (analysis): Ridge Regression on Auto Data.
+
+`auto-mpg-regression.tsv` as data file.
+
+
+## Week6: Neural Networks I
+
+A naive implementation of NN just to see the performance.
