@@ -1,0 +1,5 @@
+mpg	cylinders	displacement	horsepower	weight	acceleration	model_year	origin	car_name
+-1	8	304	193	4732	18.5	70	1	"hi 1200d"
+-1	8	307	200	4376	15	70	1	"chevy c20"
+-1	8	360	215	4615	14	70	1	"ford f250"
+-1	6	156	122	2807	13.5	73	3	"toyota mark ii"
