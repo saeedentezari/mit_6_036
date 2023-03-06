@@ -2,8 +2,33 @@
 
 # Homework Solutions
 
-## week2: perceptron
+## Week2: Perceptron
 
 1. `perceptron`, `averaged_perceptron`, test and evaluation (cross-validation), in addition of some datasets.
 
 2. A basic approach of object-oriented 2D-plotting of data and (linear and nonlinear) separators.
+
+
+## Week3: Feature Representation
+
+### code_and_data_for_hw3
+
+1. `my_code_for_hw3_part1.py` (module): Polynomial transformation: implementation and test.
+
+2. `my_code_for_hw3_part2.py` (module): Loading and representing auto (numerical), reviews (textual), and mnist (visual) data.
+
+3. `my_hw3_part2_main.py` (analysis): Auto, reviews, and mnist data analysis.
+
+4. `polynomial_transformation.py` (module): Polynomial Transformation Implementation by Solving Combinations with Replacement Problem.
+
+5. `stopwords.txt`: A text file contains stopwords, arranged in lines.
+
+### lab3_data
+
+1. MNIST data: in `mnist` folder. Data corresponding to each particular digit is in a separate .png file.
+
+2. Auto data: in `auto-mpg.tsv` and `small_auto_mpg.tsv` files.
+
+3. Review data: in `reviews.tsv` and `reviews_submit.tsv` files.
+
+> Tools for loading each of the above data are present in the `my_code_for_hw3_part2.py` file.
