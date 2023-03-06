@@ -64,3 +64,14 @@ Modular implementation of the neural network.
 1. `my_code_for_hw7.py`: Linear, Non-Linears, Loss, and Sequential Modules as NN.
 
 2. `my_expected_results.py`: Test values for testing modules.
+
+
+## Week8: Convolutional Neural Networks
+
+1. `batch_normalization.py`: contains Batch Normalization module implementation and test.
+
+2. `large_lrate.ipynb`: Investigate the effect of large learning rates in the SGD.
+
+
+
+*To be continued...*
