@@ -39,3 +39,12 @@
 1. A brief implementation of SVM.
 
 2. Explicit (for hinge loss) and numerical implementation of Gradient Descent.
+
+
+## Week5: Regression
+
+Put the L2 regularization into the regression by Ridge Regression, and see the effect of polynomial transformation to the accuracy of the prediction.
+
+1. `my_code_for_hw5.py` (module): Functional Tools for Ridge Regression on Auto Data.
+
+2. `my_auto.py` (analysis): Ridge Regression on Auto Data.
