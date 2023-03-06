@@ -55,3 +55,12 @@ Put the L2 regularization into the regression by Ridge Regression, and see the e
 ## Week6: Neural Networks I
 
 A naive implementation of NN just to see the performance.
+
+
+## Week7: Neural Networks II
+
+Modular implementation of the neural network.
+
+1. `my_code_for_hw7.py`: Linear, Non-Linears, Loss, and Sequential Modules as NN.
+
+2. `my_expected_results.py`: Test values for testing modules.
