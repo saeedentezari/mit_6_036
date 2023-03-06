@@ -27,7 +27,7 @@ __author__ = "Saeed Entezari"
 __email__ = "s.entezari144@gmail.com"
 
 
-directory = Path('/Users/saeedentezari/mit_6_036/w5_regression')
+directory = Path('~/mit_6_036/w5_regression')
 
 
 
